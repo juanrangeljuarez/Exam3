@@ -16,7 +16,6 @@
 using namespace std;
 
 
-
 /*!
  * Read CSV Mock Data. Parses each record in the file to
  * an object of HousePrice house. Then, populate a vector
